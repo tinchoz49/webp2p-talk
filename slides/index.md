@@ -246,5 +246,3 @@ Biblioteca de módulos open source para el desarrollo de aplicaciones P2P en `Ja
 # Gracias
 
 @tinchoz49
-
----
