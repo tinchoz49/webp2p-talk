@@ -1,0 +1,17 @@
+{
+  "name": "presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "marp -w -s slides",
+    "build": "marp slides/index.md -o slides/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.16.2"
+  }
+}
