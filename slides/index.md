@@ -233,7 +233,7 @@ Biblioteca de módulos open source para el desarrollo de aplicaciones P2P en `Ja
 
 ---
 
-![bg w:90%](./images/launchpad.gif)
+![bg w:70%](./images/demo.gif)
 
 ---
 
